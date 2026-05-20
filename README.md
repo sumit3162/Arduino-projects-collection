@@ -4,6 +4,8 @@ This repository contains a variety of Arduino projects built using C++. These pr
 
 **Contact:** shinganesumit80@gmail.com
 
+<a href="https://payhip.com/b/liFND" class="payhip-buy-button" data-theme="green" data-product="liFND">Buy Now</a>
+
 <div class="payhip-embed-page" data-key="liFND">...</div>
 <script type="text/javascript" src="https://payhip.com/embed-page.js?v=24u68985"></script>
 
